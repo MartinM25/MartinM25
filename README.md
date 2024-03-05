@@ -8,9 +8,8 @@ Front End Developer aspiring to be a Full Stack Developer
 
 * 🌍  I'm based in South Africa
 * ✉️  You can contact me at [25manjoro.martin@gmail.com](mailto:25manjoro.martin@gmail.com)
-* 🚀  I'm currently working on [a Next JS application](http://https://github.com/MartinM25/Car-Hub)
-* 🧠  I'm learning Next.js
-* 🤝  I'm open to collaborating on frontend projects that have animations and 3D models
+* 🧠  I'm learning Backend Development
+* 🤝  I'm open to collaborating on any full-stack projects.
 
 ### Skills
 
