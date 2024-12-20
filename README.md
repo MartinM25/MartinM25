@@ -4,11 +4,10 @@ Hi 👋 My name is Martin Manjoro
 Software Developer
 ------------------
 
-Front End Developer aspiring to be a Full Stack Developer
+Full Stack Developer
 
 * 🌍  I'm based in South Africa
 * ✉️  You can contact me at [25manjoro.martin@gmail.com](mailto:25manjoro.martin@gmail.com)
-* 🧠  I'm learning Backend Development
 * 🤝  I'm open to collaborating on any full-stack projects.
 
 ### Skills
